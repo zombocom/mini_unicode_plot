@@ -1,4 +1,4 @@
-require 'enumerable/statistics'
+# require 'enumerable/statistics'
 
 module UnicodePlot
   class Boxplot < Plot
